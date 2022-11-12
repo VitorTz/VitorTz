@@ -1,26 +1,29 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e93e83&height=120&section=header"/>
+## 👋 Olá, bem vindo!
 
-## Hi, I'm Vitor, a Developer 🚀 from Brazil.
+Me chamo Vitor, estou cursando Ciências da Computação pela UFSC.
 
-
+---
+💻 Tecnologias que conheço
 <div style="display: inline_block">
-  
   <img align="center" alt="Javascrit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+  <img align="center" alt="Git" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Git" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Git" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Git" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Git" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Git" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
  
 ---
-- 👨🏽‍💻 Undergraduate Student - Computer Science;
-- 🌱 I’m currently learning React and Java; 
-- 🤔 I’m looking for help with Web Design 😭;
-- 📫 How to reach me: vitor.ftz@pm.me;
+- 🌱 Estou estudando Javascript/CSS/HTML, MySql/MongoDB e Back-End Java; 
+- 🤔 Procuro por oportunidades nas areas de Desenvolvimento Web ou Back-End Python/Java;
+- 📫 Entre em contanto: vitor.ftz@pm.me;
 ---
-
 
 <div align="center" width="100%">
   <a href="https://github.com/VitorTz">
