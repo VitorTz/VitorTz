@@ -27,9 +27,7 @@ Me chamo Vitor, estou cursando Ciências da Computação pela UFSC.
 
 <div align="center" width="100%">
   <a href="https://github.com/VitorTz">
-  <img width="380px" height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorTz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="380px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTz&layout=compact&langs_count=7&theme=dracula"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorTz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTz&layout=compact&langs_count=7&theme=github_dark"/>
 
 </div>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=VitorTz&bg_color=0d1117&color=8a75df&line=954576&point=8a75df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
