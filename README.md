@@ -20,9 +20,9 @@ Me chamo Vitor, estou cursando Ciências da Computação pela UFSC.
 </div>
  
 ---
-- 🌱 Estou estudando Javascript/CSS/HTML, MySql/MongoDB e Back-End Java; 
-- 🤔 Procuro por oportunidades nas areas de Desenvolvimento Web ou Back-End Python/Java;
-- 📫 Entre em contanto: vitor.ftz@pm.me;
+- 🌱 Estou estudando TypeScript/CSS/HTML e Node.js; 
+- 🤔 Procuro por oportunidades nas áreas de Desenvolvimento Web;;
+- 📫 Entre em contato: vitor.ftz@pm.me;
 ---
 
 <div align="center" width="100%">
