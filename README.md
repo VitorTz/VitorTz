@@ -17,8 +17,8 @@ Me chamo Vitor, estou cursando Ciências da Computação pela UFSC.
 </div>
  
 ---
-- 🌱 Estou estudando Kotlin/Android-Development e Firebase; 
-- 🤔 Procuro por oportunidades nas áreas de Desenvolvimento Mobile (Android);
+- 🌱 Estou estudando Flutter, Android nativo, Firebase, SQlite e Rest API
+- 🤔 Procuro por oportunidades nas áreas de Desenvolvimento Mobile;
 - 📫 Entre em contato: vitor.ftz@pm.me;
 ---
 
