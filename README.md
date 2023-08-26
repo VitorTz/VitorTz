@@ -15,7 +15,7 @@ Me chamo Vitor, estou cursando Ciências da Computação pela UFSC.
  
 ---
 - 🌱 Estou estudando Desenvolvimento de Jogos;
-- 📫 Entre em contato: vitor.ftz@outlook.com;
+- 📫 Entre em contato: vitor.fsz@proton.me;
 ---
 
 <div align="center" width="100%">
