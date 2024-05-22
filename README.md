@@ -1,6 +1,4 @@
-## 👋 Olá, bem vindo!
-
-Me chamo Vitor, estou cursando Ciências da Computação pela UFSC.
+## 👋 Olá, Me chamo Vitor, estou cursando Ciências da Computação pela UFSC
 
 Estou em fases iniciais de minha vida como desenvolvedor e sempre disposto a aprender, escutar, e a evoluir como pessoa e profissional. 
   
