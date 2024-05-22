@@ -2,7 +2,7 @@
 
 Estou em fases iniciais de minha vida como desenvolvedor e sempre disposto a aprender, escutar, e a evoluir como pessoa e profissional. 
   
-  Minha área de interesse é o desenvolvimento e criação de jogos. Estou me especializando e dedicando grande parte de meus estudos e tempo nesta área.
+  Minha área de interesse é o **desenvolvimento e criação de jogos**. Estou me especializando e dedicando grande parte de meus estudos e tempo nesta área.
 
   Considero que ter uma base teórica forte e bem fundamentada é mais importante que dominar certo framework ou tecnologia específica. Por este motivo, direciono meus
 estudos não em aprender a usar game engines como Unity ou Godot mas sim em entender as soluções implementadas e propostas por tais e em quais fundamentos estes softwares estão sustentados.
@@ -15,7 +15,7 @@ estudos não em aprender a usar game engines como Unity ou Godot mas sim em ente
 
 ---
 💻 Tecnologias que conheço
-<div style="display: inline_block">
+- <div style="display: inline_block">
   <img align="center" alt="Git" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Linux-icon" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -23,15 +23,6 @@ estudos não em aprender a usar game engines como Unity ou Godot mas sim em ente
   <img align="center" alt="C-icon" height=30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Cpp-icon" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
 </div>
- 
+
 ---
-- 🌱 Estou estudando Desenvolvimento de Jogos;
 - 📫 Entre em contato: vitor.fsz@proton.me;
----
-
-<div align="center" width="100%">
-  <a href="https://github.com/VitorTz">
-  <img width="380px" height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorTz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="380px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTz&layout=compact&langs_count=7&theme=github_dark"/>
-
-</div>
