@@ -1,16 +1,17 @@
-## Hi there 👋
+## Vitor 
 
-<!--
-**VitorTz/VitorTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+💻 Tecnologias que conheço
+- <div style="display: inline_block">
+  <img align="center" alt="Git Icon" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Linux Icon" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Python Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Javascript Icon" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
+  <img align="center" alt="React Icon" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />  
+  <img align="center" alt="Android Icon" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />        
+  <img align="center" alt="C icon" height=30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  
+  <img align="center" alt="Cpp icon" height=30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+- 📫 Entre em contato: vitor.fsz@proton.me;
